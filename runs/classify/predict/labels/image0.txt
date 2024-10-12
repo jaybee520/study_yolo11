@@ -1,0 +1,10 @@
+1.00 fly
+0.00 leafhopper
+0.00 cicada
+0.00 damselfly
+0.00 bee
+1.00 fly
+0.00 leafhopper
+0.00 cicada
+0.00 damselfly
+0.00 bee
